@@ -19,7 +19,7 @@ Describa brevemente qué se hizo durante la sesión:
 
 ## 🧩 Boceto inicial del modelo
 
-> (Puede insertar aquí una imagen del boceto, una captura de pantalla o un diagrama preliminar si ya fue hecho en digital)
+<img width="762" height="452" alt="Taller 2 - Diagrama ERD" src="DiagramaERD.drawio.png" />
 
 ## 🔁 Tareas definidas para complementar el taller
 
