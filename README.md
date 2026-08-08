@@ -2,9 +2,9 @@
 La explicación de esta parte se encuentra en el archivo Markdown [Notas](clase/notas.md) y el diagrama en [Diagrama](clase/Taller1-BPMN.drawio.png)
 
 Nombres de los integrates del grupo:
-Brayan Presiga 
-Julián Aguirre
-Jorge Alarcon
+- Brayan Presiga 
+- Julián Aguirre
+- Jorge Alarcon
 
 
 # Contexto:
