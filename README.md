@@ -1,6 +1,12 @@
 # Desarrollo del Taller 2: Modelo de Información y Diagrama de Contexto - SOLO parte 1 y ERD
 La explicación de esta parte se encuentra en el archivo Markdown [Notas](clase/notas.md) y el diagrama en [Diagrama](clase/Taller1-BPMN.drawio.png)
 
+Nombres de los integrates del grupo:
+Brayan Presiga 
+Julián Aguirre
+Jorge Alarcon
+
+
 # Contexto:
 
 
