@@ -1,8 +1,7 @@
 # 🗒️ Registro de Trabajo en Clase - Taller X
 
 ## 📆 Fecha de la sesión
-_Indique la fecha de la clase en que se trabajó este taller._
-
+8 de agosto de 2026
 ## 👥 Integrantes presentes
 - Brayan Presiga
 - Julian Aguirre
